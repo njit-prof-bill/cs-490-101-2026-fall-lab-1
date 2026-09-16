@@ -2,18 +2,17 @@
 
 ## My Name
 
-Bill McCann
+Michael Grady
 
 ## Favorite Technology
 
-VS Code
+Toaster Oven
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Watching Bad Movies
 - Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Cyberchase 
