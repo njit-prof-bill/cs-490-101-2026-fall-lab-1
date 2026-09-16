@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Daniel Colon
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Cooking
+- Weight Lifting, Basketball
+- PC Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+ReZero
