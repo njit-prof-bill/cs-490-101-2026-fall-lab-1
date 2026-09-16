@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Mujtaba Atif
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Hiking
+- Working out
 - Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Curious George
