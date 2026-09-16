@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Tommy Toczek
 
 ## Favorite Technology
 
-VS Code
+Playstation 5
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Video games
+- Watching movies
+- Drinking
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+The Simpsons
