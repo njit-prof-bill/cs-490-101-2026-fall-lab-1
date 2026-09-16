@@ -4,15 +4,17 @@
 
 Bill McCann
 
+
 ## Favorite Technology
 
-VS Code
+AI
 
 ## Non-technical Hobby
 
 - Skiing
-- Running, Swimming, Biking
+- Running, Tennis, Cricket
 - Gaming
+
 
 ## Favorite Cartoon
 
